@@ -1,0 +1,52 @@
+{  
+   "employee":
+   [  
+      {  
+         "name":"Bruno Mihalic",
+         "birthYear":"1995",
+         "team":"H&M",
+         "image":"https://i.pinimg.com/originals/3a/9b/dd/3a9bdd452ff107dd46c8f13be9596dd6.jpg"
+      },
+      {  
+         "name":"Marko Markic",
+         "birthYear":"1993",
+         "team":"Bubamara",
+         "image":"http://panificadoramarcelo.cl/wp-content/uploads/2016/07/default-avatar-tech-guy.png"
+      },
+      {  
+         "name":"Ivo Ivic",
+         "birthYear":"1970",
+         "image":"https://images.vexels.com/media/users/3/145908/preview2/52eabf633ca6414e60a7677b0b917d92-male-avatar-maker.jpg"
+      },
+      {  
+         "name":"Matija Sabolic",
+         "birthYear":"1995",
+         "team":"H&M",
+         "image":"https://www.w3schools.com/howto/img_avatar.png"
+      },
+      {  
+         "name":"Jura Juric",
+         "birthYear":"1987",
+         "team":"Elipso",
+         "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWyGZEBaOBNrBEIZKl1K-6Wq9hNoXet2y00z1zSRIBATrgWsidsg"
+      },
+      {  
+         "name":"Luka Lukic",
+         "birthYear":"1977",
+         "team":"Elipso",
+         "image":"http://getbdtutor.com/upload/01704062323.jpg"
+      },
+      {  
+         "name":"Pero Peric",
+         "birthYear":"1987",
+         "team":"H&M",
+         "image":"https://pickaface.net/gallery/avatar/JohnBoley54ab86c9c3327.png"
+      },
+      {  
+         "name":"Ivan Ivanic",
+         "birthYear":"1987",
+         "team":"Elipso",
+         "image":"https://pickaface.net/gallery/avatar/tobinsteph53e1785480546.png"
+      }
+   ]
+}
